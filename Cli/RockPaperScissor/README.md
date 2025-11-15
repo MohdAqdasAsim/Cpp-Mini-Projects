@@ -1,7 +1,3 @@
-█████▄   ▄▄▄   ▄▄▄▄ ▄▄ ▄▄   █████▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄    ▄█████  ▄▄▄▄ ▄▄  ▄▄▄▄  ▄▄▄▄  ▄▄▄  ▄▄▄▄  
-██▄▄██▄ ██▀██ ██▀▀▀ ██▄█▀   ██▄▄█▀ ██▀██ ██▄█▀ ██▄▄  ██▄█▄   ▀▀▀▄▄▄ ██▀▀▀ ██ ███▄▄ ███▄▄ ██▀██ ██▄█▄ 
-██   ██ ▀███▀ ▀████ ██ ██   ██     ██▀██ ██    ██▄▄▄ ██ ██   █████▀ ▀████ ██ ▄▄██▀ ▄▄██▀ ▀███▀ ██ ██ 
-
 # Ultimate RPS Arena
 
 Welcome to the **Ultimate Rock–Paper–Scissors Arena**, a tiny terminal game with *dramatic ASCII art*, arrow-key navigation, and enough attitude to make losing fun.
